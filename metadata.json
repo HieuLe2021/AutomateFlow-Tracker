@@ -1,0 +1,5 @@
+{
+  "name": "AutomateFlow Tracker",
+  "description": "An application to track and visualize workflow data from Power Automate, providing sorting and filtering capabilities in a clean, modern interface.",
+  "requestFramePermissions": []
+}
